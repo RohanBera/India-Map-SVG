@@ -1,0 +1,23 @@
+.india path {
+  fill: white;
+  border: 1px solid red;
+  stroke: white;
+  stroke-width: 1px;
+}
+.india rect {
+  fill: white;
+}
+
+.india path.st0 {
+  border: 1px solid white;
+  fill: #b4b4b4;
+  cursor: pointer;
+}
+
+.india path.st4 {
+  fill: #e6e6e6;
+}
+
+.india path.st0:hover {
+  fill: #af0000;
+}
